@@ -4,4 +4,6 @@
 
 ## Projects
 
-- project-1：猜數字遊戲
+- project-1：猜數字遊戲 & 基礎語法練習
+
+
